@@ -1,6 +1,5 @@
 # Documentacion
 
-## Parte 1:
 
 Engadimos a carpeta cos documentos que fixemos antes a un novo repositorio local
 
